@@ -53,6 +53,8 @@ Dopo le Olimpiadi, il marchio giapponese accelerò la miniaturizzazione del movi
 La tecnologia di **Hamilton** venne presto resa obsoleta in quanto i riflettori erano tutti puntati su **Bulova**.<br>
 Sotto la guida di Bradley i legami di Bulova con il governo degli Stati Uniti e i suoi rami militari si rafforzarono tanto da stabilire una partnership decennale con la National Aeronautics and Space Administration (NASA).
 
+## la risposta svizzera
+
 Per contrastare il successo dell’**Accutron**, gli orologiai svizzeri, sotto la guida di **Ebauches SA** e della **Federazione svizzera dell'orologeria (FH)** fondarono nel 1962 il *Centre Electronique Horloger* **CEH** ed iniziarono a compiere ricerche per rimanere al passo con i tempi.<br> Se Bulova aveva affidato il progetto ad un ingegnere svizzero, la CEH, affidò la direzione del progetto ad un insegnate e ricercatore americano **Roger Wellinger** (ma che in realtà era di origini svizzere).<br>
 Si noti, però, che nessuno dei progetti fino al 1965 prevedeva un orologio da polso al quarzo e che nel 1966 il presidente del consiglio d'amministrazione informò i due promotori del progetto dell'orologio da polso al quarzo che l'industria orologiera svizzera non era interessata a questo nuovo una specie di orologio da polso al quarzo!<br>
 Sin dall'inizio Roger Wellinger ha riconosciuto l'importanza di un proprio laboratorio di semiconduttori.
