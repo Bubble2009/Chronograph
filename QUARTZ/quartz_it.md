@@ -142,7 +142,7 @@ e la versione in acciaio del 1973:
 ![1973-Pulsar_P2](assets/1973-Pulsar_P2.png)<br>
 `Pulsar P2 - 1793`
 
-Sempre nel **1973**, vedrà la luce il primo orologio **con display LED** al mondo dovrebbe essere stato prodotto da **Seiko** con il modello **LC V.F.A. 06LC**.
+Sempre nel **1973**, vedrà la luce il primo orologio **con display LCD** al mondo dovrebbe essere stato prodotto da **Seiko** con il modello **LC V.F.A. 06LC**.
 
 ![Seiko_06LC](assets/Seiko_06LC.png)<br>
 `Seiko 06LC`
