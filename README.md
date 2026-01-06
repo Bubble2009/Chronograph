@@ -14,7 +14,7 @@ Ho alcune preferenze, ma ho soprattutto curiosità che mi spingono a raccogliere
 
 ### Ecco le mie esposizioni
 
-* `work in progress` [Orologi a carica solare](SOLAR/solar_it.md)
+* [Orologi a carica solare](SOLAR/solar_it.md)
 * [Orologi al quarzo](QUARTZ/quartz_it.md)
 * **Cronografi**
     * `work in progress` [Cronografi pt1](CRONO/PT01/Crono01_it.md) - Introduzione
