@@ -146,7 +146,7 @@ Il suo movimento Eco-Drive, che Citizen afferma abbia richiesto una riprogettazi
 Il progresso più significativo è avvenuto nel 2019, con l'introduzione del **Calibro 0100**, un movimento Eco-Drive che calibra il tempo con una sorprendente precisione di +/- 1 secondo all'anno.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=iigxOiIvFGY
-" target="_blank"><img src="http://img.youtube.com/viiigxOiIvFGY/0.jpg" 
+" target="_blank"><img src="http://img.youtube.com/iiigxOiIvFGY/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 L'orologio che lo contiene è l'attuale detentore del record per il titolo di "**orologio più preciso al mondo**".
