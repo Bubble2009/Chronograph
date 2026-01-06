@@ -1,5 +1,3 @@
-![WIP](assets/wip2.gif)
-
 # L’orologio Solare
 
 ![Banner Ricerca](assets/Energia_Solare_Banner.png)
