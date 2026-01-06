@@ -147,7 +147,7 @@ Il progresso più significativo è avvenuto nel 2019, con l'introduzione del **C
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=01BSbVa_C7M
 " target="_blank"><img src="https://img.youtube.com/vi/01BSbVa_C7M/hqdefault.jpg" 
-alt="Tecnologia del calibro 0100 " width="240" height="180" border="10" /></a>
+alt="Tecnologia del calibro 0100 " width="240" height="180" border="10" /></a><br>`guardate questo spettacolare video`
 
 L'orologio che lo contiene è l'attuale detentore del record per il titolo di "**orologio più preciso al mondo**".
 
@@ -164,5 +164,5 @@ Gli accumulatori presenti in questo orologi, sono infiniti?<br>Ovviamente no, la
 Ovviamente moltissime alte Maison hanno sviluppato una tecnologia che sfrutta l’energia solare per il funzionamento degli orologi, ma Citizen, da sempre, è all’avanguardia, pertanto mi è sembrato corretto dare luce a questa azienda.
 
 ****
-Posso quindi terminare questo testo affermando chel’**orologio solare** è nato prima di **Daitan 3**,mi spiace tanto **Haran Banjo**
+Posso quindi terminare questo testo affermando che l’**orologio solare** è nato prima di **Daitan 3**,mi spiace tanto **Haran Banjo**
 
