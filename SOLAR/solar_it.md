@@ -40,21 +40,21 @@ L'inventore americano Roger Riehl aveva lavorato su prototipi di orologi da pols
 
 Il Synchronous Chronometer Calendar (**Synchronar**) utilizzava due grandi celle solari sulla parte superiore di un orologio a forma di "scrigno".<br>Le celle alimentavano una batteria che a sua volta alimentava un movimento al quarzo dotato di un CMOS.<br>Su questo orologio venne implementata la funzione di **calendario perpetuo** fino all’anno 2100.<br>Questa era una caratteristica mai vista prima.<br> Proprio per questo motivo, questo orologio, veniva spesso chiamato ***Synchronar 2100***.
 
-![ynchronar 2100](assets/Synchronar_2100.jpg)
+![Synchronar 2100](assets/Synchronar_2100.jpg)
 
 Il display era rivolto verso chi lo indossava e contava di un’unica riga di indicatori a led. L’orologio era gestito da due slider.
 
-![Synchronar](assets/Synchronar_04.jpg)<br>
-![Synchronar](assets/Synchronar_02.jpg)<br>
-![Synchronar](assets/Synchronar_03.jpg)
+![Synchronar 4](assets/Synchronar_04.jpg)<br>
+![Synchronar 2](assets/Synchronar_02.jpg)<br>
+![Synchronar 3](assets/Synchronar_03.jpg)
 
 Riehl presentò il Synchronar alla fiera **R.J.A. Fall** nel luglio del 1973 e Ness Time la primavera seguente alla fiera di Basilea, ma l’azienda non fu mai in grado di avviarne la produzione.
 
-![img](assets/Synchronar_adv.png)
+![Synchronar adv](assets/Synchronar_adv.png)
 
 Riehl si appoggiò quindi alla Ragen Semiconductor per proseguire lo sviluppo del Synchronar. Un’altra azienda americana, la Optel lo presentò alla fiera di Basilea nel 1975 con il nome di Solar II.<br>Ragen presentò il **Solar II** sempre a Basilea ma nel 1976, ma alla fine di quell’anno, interruppe la produzione dell’orologio. <br>Riehl aprì una sua azienda e continuò la produzione del Synchronar fino al 1983.
 
-![img](assets/Synchronar_01.jpg)
+![Synchronar 1](assets/Synchronar_01.jpg)
 
 Molte persone che condividono questa mia stessa passione, sono affascinate anche dallo spazio, quindi vi mostro Gordon Cooper (astronauta NASA (che portò in orbita un Bulova Accutron e che acquistò privatamente uno Speedmaster CK 2998 insieme a Walter "*Wally*" Schirra) in un video promozionale girato da lui per il ***Synchronar 2100***:
 
@@ -101,7 +101,7 @@ Ancora qualche scatto di questo gioiellino:
 ![Citizen-Crystron-Solar-Cell-23](assets/Citizen-Crystron-Solar-Cell-2-4.jpg)<br>   
 ![Citizen-Crystron-Solar-Cell-21](assets/Citizen-Crystron-Solar-Cell-2-1.jpg)<br>
 
-Il Quartz Crystron era anche chiamato "Sunwatch"; è stato il primo orologio da polso analogico alimentato dalla luce, ma la durata della batteria era molto bassa; generalmente aveva bisogno di essere ricaricato una volta alla settimana.<br>Citizen ha continuato ad aggiornare la tecnologia di ricarica della luce.
+Il Quartz Crystron era anche chiamato "*Sunwatch*"; è stato il primo orologio da polso analogico alimentato dalla luce, ma la durata della batteria era molto bassa; generalmente aveva bisogno di essere ricaricato una volta alla settimana.<br>Citizen ha continuato ad aggiornare la tecnologia di ricarica della luce.
 
 Nel 1986, dopo aver sviluppato con successo celle solari più sottili per generare energia e batterie più potenti per immagazzinarla, Citizen ha rilasciato un altro orologio "a celle solari" in grado di funzionare con una singola carica di luce per otto giorni, o 200 ore. <br>Il passo successivo nell'evoluzione della tecnologia è stato nel 1995, quando Citizen ha aggiunto una cella di alimentazione agli ioni di litio che ha esteso il tempo di funzionamento dell'orologio a sei mesi interi con una singola carica.
 
@@ -109,7 +109,7 @@ Nel 1986, dopo aver sviluppato con successo celle solari più sottili per genera
 
 I primi orologi Citizen Eco-Drive, alimentati dal calibro 7878, furono lanciati un anno dopo questa svolta, nel 1996.
 
-Erano dotati della tecnologia rivoluzionaria che è ancora oggi al centro dei movimenti Eco-Drive: la luce passa attraverso un quadrante traslucido con una fotocellula in silicio amorfo montata direttamente sotto di esso, che fornisce energia alla batteria agli ioni di litio del movimento sottostante.Dal punto di vista ambientale, ciò significa anche che chi lo indossa non ha quasi mai bisogno di buttare via le vecchie batterie e sostituirle con quelle nuove.La prima generazione di orologi Eco-Drive era un semplice cronometro a tre lancette con data, ma con il miglioramento della tecnologia, le iterazioni future includevano un'ampia gamma di complicazioni e stili, tra cui cronografi, calendari perpetui, display analogico-digitali e, a partire dal 1998 con il Promaster Eco-Duo Drive, orologi subacquei.
+Erano dotati della tecnologia rivoluzionaria che è ancora oggi al centro dei movimenti Eco-Drive: la luce passa attraverso un quadrante traslucido con una fotocellula in silicio amorfo montata direttamente sotto di esso, che fornisce energia alla batteria agli ioni di litio del movimento sottostante.Dal punto di vista ambientale, ciò significa anche che chi lo indossa non ha quasi mai bisogno di buttare via le vecchie batterie e sostituirle con quelle nuove.La prima generazione di orologi Eco-Drive era un semplice cronometro a tre lancette con data, ma con il miglioramento della tecnologia, le iterazioni future includevano un'ampia gamma di complicazioni e stili, tra cui cronografi, calendari perpetui, display analogico-digitali e, a partire dal 1998 con il **Promaster** Eco-Duo Drive, orologi subacquei.
 
 ![Eco Drive Dive](assets/Eco-Drive-Dive.jpg)
 
@@ -117,7 +117,7 @@ Verso la fine degli anni Novanta, Citizen sperimentò altre varianti del sistema
 
 ![Eco Drive Thermo](assets/Eco-Drive-Thermo.jpg)
 
-Un'altra sperimentazione, venne tentata in un orologio della linea subacquea Promaster. Era il movimento **Hybrid Eco-Drive** che utilizzava sia parti meccaniche sia una cella solare per caricare le funzioni dell'orologio.
+Un'altra sperimentazione, venne tentata in un orologio della linea subacquea **Promaster**. Era il movimento **Hybrid Eco-Drive** che utilizzava sia parti meccaniche sia una cella solare per caricare le funzioni dell'orologio.
 
 ![Eco Drive DUO](assets/Eco-Drive-DUO.png)<br>`Ho la fortuna di aver recuperato un esemplare di questo orologio`
 

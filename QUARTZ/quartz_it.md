@@ -86,7 +86,7 @@ Al concorso del 1967 furono presentati anche prototipi della Beta 2.
 Anche Seiko presentò un suo movimento a quel concorso, ma i movimenti svizzeri Beta, conquistarono i primi 10 posti grazie soprattutto alla **termocompensazione** di **Hermann** e al **circuito di regolazione** fine di **Frei**.<br>
 Dopo la pubblicazione dei risultati del concorso di Neuchâtel, il **15 febbraio 1968**, era chiaro che il movimento CEH doveva essere messo in produzione il più rapidamente possibile, si decise di produrlo con il nome **Beta due uno** (Beta-21).<br>
 All’interno del CEH ci furono per tanti cambiamenti: nel **1976** **Armin Frei** e **Roger Wellinger** lasciarono il gruppo, seguiti l’anno seguente da **Rolf Lochinger**.<br>
-Per ironia della sorte, nel **1963** **Max Hetzel** (creatore dell’Acutron) si era dimesso da Bulova nel **1963** ed era tornato in Svizzera e nel **1966** stava lavorando all'interno del CEH su un movimento migliorato del diapason.<br>
+Per ironia della sorte, nel **1963** **Max Hetzel** (creatore dell’Accutron) si era dimesso da Bulova nel **1963** ed era tornato in Svizzera e nel **1966** stava lavorando all'interno del CEH su un movimento migliorato del diapason.<br>
 Nel **1968** l'ETA concesse in licenza i brevetti Bulova e poco dopo fu introdotta la linea di movimenti del diapason **ETA/Derby Swissonic Mosaba**, basata sul lavoro di Hetzel al CEH.
 
 ![NYT_1968_09_12-Bulova-Patent](assets/NYT_1968_09_12-Bulova-Patent.png) 
@@ -114,7 +114,7 @@ L'**Ultra-Quartz** è stato il primo orologio svizzero al quarzo **annunciato**.
 
 ![Ultra_quartz_2](assets/Ultra_quartz_2.jpg)
 
-Questo design assomiglia a quello adottato sul **Bulova Accuquartz** nel**1971**.<br> Quest'ultimo diventerà il primo orologio al quarzo **venduto negli Stati Uniti**.<br>
+Questo design assomiglia a quello adottato sul **Bulova Accuquartz** nel **1971**.<br> Quest'ultimo diventerà il primo orologio al quarzo **venduto negli Stati Uniti**.<br>
 L'**Ultra-Quartz** non utilizza circuiti integrati, poiché Longines non disponeva di questa capacità tecnica.<br> Sfrutta invece 30-40 componenti elettronici in miniatura, un design costoso e impegnativo simile ai cronometri da competizione Seiko del 1967. Questo movimento è stato sviluppato internamente dal **Longines**, la maison faceva parte anche del consorzio CEH.
 
 ![Ultra_quartz_3](assets/Ultra_quartz_3.jpg)
@@ -128,7 +128,7 @@ Ricapitolando:
 
 Ma quale fu il primo orologio da polso **prodotto**?<br>
 Il giorno di **Natale del 1969**, un evento sconvolgente per l’intero mondo dell’orologeria avvenne in **Giappone**: il primo orologio da polso al quarzo fece il suo debutto nei negozi di Tokyo, innescando la più lunga e devastante crisi per il mercato svizzero.<br>
-![quartz-astron-35sq-35sqc-768x611](assets/quartz-astron-35sq-35sqc-768x611.jpg)<br>
+![quartz-Astron-35sq-35sqc-768x611](assets/quartz-astron-35sq-35sqc-768x611.jpg)<br>
 `Seiko Quartz-Astron ref. 35SQ (destra) e ref. 35SQC (sinistra)`
 
 Giusto per completezza, facciamo un balzo in avanti fino al **1972**, per l’esattezza nel mese di Aprile, quando il primo vero orologio **digitale** al quarzo venne alla luce. Ovviamente parliamo dell’iconico **Hamilton Pulsar P1**.<br>
