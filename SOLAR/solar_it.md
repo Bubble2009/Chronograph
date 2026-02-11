@@ -11,11 +11,16 @@ Cit. Haran Banjo - Daitan 3
 
 https://github.com/user-attachments/assets/f5e3298c-e1fd-467f-bb32-69c6190ec594
 
-E’ nato prima **Daitan 3** oppure l’**orologio a carica solare**?<br>
-Per anni gli scienziati di tutto il mondo si sono posti questa annosa domanda, ora, cercherò di trovare una risposta definitiva.<br>
+E’ nato prima **Daitan 3** oppure l’**orologio a carica solare**?
+
+Per anni scienziati, ricercatori e semoplici appassionati di tutto il mondo, si sono posti questa annosa domanda.<br>
+Ora, cercherò di trovare una risposta definitiva.
+
 La serie animata **Daitan 3** ha debuttato in Giappone il **3 giugno 1978**, ma è arrivata in Italia quasi due anni dopo.<br>
-Il disegnatore è Yoshiyuki Tomino, autore anche di altri grandi successi come **Gundam**, **Astro Boy** e il famoso **Tulipano Nero** (La Stella della Senna). Ora vediamo quando sono nati gli orologi.<br>
+Il disegnatore è Yoshiyuki Tomino, autore anche di altri grandi successi come **Gundam**, **Astro Boy** e il famoso **Tulipano Nero** (La Stella della Senna). Ora vediamo quando sono nati gli orologi.
+
 ***
+
 Dopo questa prima premessa goliardica, passiamo alle cose serie.
 Scrivendo la ricerca sulla nascita ed evoluzione degli orologi a batteria (che potete leggere [:link: quì](../QUARTZ/quartz_it.md), avevo iniziato anche a parlare degli orologi solari, ma ho preferito dedicare una pagina appositamente a questi ultimi.
 
