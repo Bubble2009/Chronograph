@@ -17,7 +17,7 @@ Ho alcune preferenze, ma ho soprattutto curiosità che mi spingono a raccogliere
 * [Orologi a carica solare](SOLAR/solar_it.md)
 * [Orologi al quarzo](QUARTZ/quartz_it.md)
 * **Cronografi**
-    * `work in progress` [Cronografi pt1](CRONO/PT01/Crono01_it.md) - Introduzione
+    * [Cronografi pt1](CRONO/PT01/Crono01_it.md) - Introduzione
     * `work in progress` [Cronografi pt2](CRONO/PT02/Crono02_it.md) - 1913 - 1963
     * `work in progress` [Cronografi pt3](CRONO/PT03/Crono03_it.md) - pubblicità
     * `work in progress` [Cronografi pt4](CRONO/PT04/Crono04_it.md) - 1952 - 1964
