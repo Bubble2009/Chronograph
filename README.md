@@ -22,6 +22,6 @@ Ho alcune preferenze, ma ho soprattutto curiosità che mi spingono a raccogliere
     * `work in progress` [Cronografi pt3](CRONO/PT03/Crono03_it.md) - pubblicità
     * `work in progress` [Cronografi pt4](CRONO/PT04/Crono04_it.md) - 1952 - 1964
     * `work in progress` [Cronografi pt5](CRONO/PT05/Crono05_it.md) - 1969 - 2018
-    * `work in progress` [Cronografi pt6](CRONO/PT06/Crono06_it.md) - Glossario e didattica
+    * [Cronografi pt6](CRONO/PT06/Crono06_it.md) - Glossario e didattica
     * `work in progress` [Cronografi pt7](CRONO/PT07/Crono07_it.md) - ETA 251.262
 
