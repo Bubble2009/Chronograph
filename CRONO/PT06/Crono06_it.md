@@ -13,24 +13,24 @@ Ecco l'indice dei macro argomenti:
 ## Tipi di cronografo
   
 ### **Cronografo Centrale**  
-Introdotto da Singer Reimagined nel 2017 ed incentrato su un’alta leggibilità della funzione cronografica. È il frutto di un imponente lavoro da parte del team per creare un movimento che permetta di leggere l’ora in modo periferico (ai lati del quadrante) con due dischi rotanti, e le informazioni del cronografo al centro del movimento.  
+Introdotto da Singer Reimagined nel 2017 ed incentrato su un’alta leggibilità della funzione cronografica.<br> È il frutto di un imponente lavoro da parte del team per creare un movimento che permetta di leggere l’ora in modo periferico (ai lati del quadrante) con due dischi rotanti, e le informazioni del cronografo al centro del movimento.  
   
 ### **Fly-Back**  
-Fu Longines, nel 1936, a depositare il brevetto dell’antenato degli odierni cronografi flyback. Questa “complicazione nella complicazione” consente di effettuare misurazioni in rapida successione senza dover azzerare manualmente il cronografo. Viene solitamente utilizzato il pulsante di reset che, quando il cronografo è attivo, fa ripartire istantaneamente la misurazione da zero.  
+Fu Longines, nel 1936, a depositare il brevetto dell’antenato degli odierni cronografi flyback. Questa “complicazione nella complicazione” consente di effettuare misurazioni in rapida successione senza dover azzerare manualmente il cronografo.<br> Viene solitamente utilizzato il pulsante di reset che, quando il cronografo è attivo, fa ripartire istantaneamente la misurazione da zero.<br>  
 Per il reset, invece, è necessario prima stoppare il cronografo e poi premere il tasto di reset.  
   
 ### **Minuti Centrali**  
-Le sfere dei secondi e dei minuti cronografici, sono montate sul medesimo albero delle sfere dei minuti e delle ore continue.  
-Questo sistema fu introdotto nel 1970 da Lemania con il calibro 1340 e ripresa da Omega con il calibro 1040.  
-Sistema che permette una chiara lettura del cronografo, che però fu abbandonato in quanto costoso nonostante i tentativi che si fecero per renderlo più abbordabile e riparabile.  
+Le sfere dei secondi e dei minuti cronografici, sono montate sul medesimo albero delle sfere dei minuti e delle ore continue.  <br>
+Questo sistema fu introdotto nel 1970 da Lemania con il calibro 1340 e ripresa da Omega con il calibro 1040.  <br>
+Sistema che permette una chiara lettura del cronografo, che però fu abbandonato in quanto costoso nonostante i tentativi che si fecero per renderlo più abbordabile e riparabile.  <br>
   
 ### **MonoRattrappante**  
 Vedi :link:[Rattrappante](#rattrappante-aka-slit-second)
   
 ### **Rattrappante (aka Slit-Second)**  
-il primo misuratore rattrapante venne creato nel 1827 da Louis-Fredric Perrelet. Questo particolare tipo di cronografo è utilissimo per registrare due eventi con uguale inizio ma diversa fine.  
-Le lancette dei secondi sono due, una sovrapposta all’altra. Una volta fatte partire simultaneamente si ha la facoltà, attraverso un apposito pulsante, di fermarne una mentre l’altra prosegue la misurazione senza fermarsi. Riavviandola, poi, raggiunge e segue la marcia di quella che non era stata fermata.  
-Avendo due sfere dei secondi da gestire è considerata una complicazione importante e difficile da implementare a causa dei vari errori e imprecisioni che potrebbero comparire, per esempio l’imperfetto allineamento delle sfere dei secondi  
+il primo misuratore rattrapante venne creato nel 1827 da Louis-Fredric Perrelet. Questo particolare tipo di cronografo è utilissimo per registrare due eventi con uguale inizio ma diversa fine.  <br>
+Le lancette dei secondi sono due, una sovrapposta all’altra. Una volta fatte partire simultaneamente si ha la facoltà, attraverso un apposito pulsante, di fermarne una mentre l’altra prosegue la misurazione senza fermarsi. Riavviandola, poi, raggiunge e segue la marcia di quella che non era stata fermata.  <br>
+Avendo due sfere dei secondi da gestire è considerata una complicazione importante e difficile da implementare a causa dei vari errori e imprecisioni che potrebbero comparire, per esempio l’imperfetto allineamento delle sfere dei secondi.
 
 **Varianti:**  
 * La variante **MonoRattrappante** si basa sul medesimo funzionamento, ma con una sola sfera dei secondi. Alla prima pressione, la sfera dei secondi cronografici si stoppa, ad una seconda pressione, raggiunge immediatamente la posizione che avrebbe avuto senza interruzioni e prosegue da li.
@@ -46,16 +46,23 @@ Linea di cronografi dedicati alle regate.Sono caratterizzati da una un timer (co
 
   
 ### **CH 27 (poi Lemania 2310)**
-Calibro sviluppato da Albert Gustave Piguet. Rispetto ai predecessori era molto più piccolo misurando 27mm di diametro e 6,74 di altezza.È stato utilizzato dal 1946 al 1968 da Omega come **cal. 321** dove ha raggiunto straordinari record fi affidabilità e prestazioni, culminando nella certificazione NASA (superando test definibili torture) per poter lavorare nello spazio.Nel 1947 fu presentato un prototipo **Automatico** che però non venne mai prodotto.Sarebbe potuto diventare il primo calibro cronografico automatico 22 anni prima dei concorrenti.  
+Calibro sviluppato da Albert Gustave Piguet. Rispetto ai predecessori era molto più piccolo misurando 27mm di diametro e 6,74 di altezza.<br>
+È stato utilizzato dal 1946 al 1968 da Omega come **cal. 321** dove ha raggiunto straordinari record fi affidabilità e prestazioni, culminando nella certificazione NASA (superando test definibili torture) per poter lavorare nello spazio.<br>
+Nel 1947 fu presentato un prototipo **Automatico** che però non venne mai prodotto.Sarebbe potuto diventare il primo calibro cronografico automatico 22 anni prima dei concorrenti.  
   
 ### **Lemania 2310**
 Vedi [cal **CH 27**](#ch-27-poi-lemania-2310)
   
 ### **Scappamento a cilindro**
-Scappamento inventato da George Graham intorno al 1700. Chiamato anche “scappamento orizzontale”, essendo la ruota di scappamento posta in orizzontale rispetto al bilanciere.L’impulso è dato al bilanciere dai piani inclinati dei denti della ruota di scappamento allontanando li bordi del cilindro montato sull'asse del bilanciere.Dopo l’impulso, i denti della ruota riposano senza muoversi sull'esterno del cilindro e interferiscono meno con le oscillazioni del bilanciere nel corso dell’arco supplementare che, quindi, si trova allungato.Ma l’incremento di precisione così ottenuto non poteva che mantenersi grazie a puliture e oliature frequenti: in caso di inottemperanza, i bordi del cilindro si consumerebbero nei punti di contatto con i denti della ruota.Utilizzando dei cilindri in rubino e curvandone i piani inclinati per rendere uniforme, per tutta l’azione, la velocità della ruota, si ha migliorato l’affidabilità quanto la marcia.Breguet ha migliorato le proporzioni e la costruzione dello scappamento fino ad un limite invalicabile ed ha applicato la sua versione di scappamento standard ai suoi orologi.L’utilizzo dello scappamento a cilindro fu abbandonato in Inghilterra alla fine del diciottesimo secolo, ma i laboratori di Breguet continuarono ad utilizzarlo, fino al 1830 circa. Ripreso dagli svizzeri alla metà del diciannovesimo secolo per essere montato negli orologi di qualità media, è stato utilizzato fino alla metà del ventesimo secolo. È da ricordare che questo fu il primo scappamento in grado di separare le due funzioni di avanzamento del moto e di alimentazione del periodo.  
+Scappamento inventato da George Graham intorno al 1700. Chiamato anche “scappamento orizzontale”, essendo la ruota di scappamento posta in orizzontale rispetto al bilanciere.<br>
+L’impulso è dato al bilanciere dai piani inclinati dei denti della ruota di scappamento allontanando li bordi del cilindro montato sull'asse del bilanciere.<br>
+Dopo l’impulso, i denti della ruota riposano senza muoversi sull'esterno del cilindro e interferiscono meno con le oscillazioni del bilanciere nel corso dell’arco supplementare che, quindi, si trova allungato.<br>
+Ma l’incremento di precisione così ottenuto non poteva che mantenersi grazie a puliture e oliature frequenti: in caso di inottemperanza, i bordi del cilindro si consumerebbero nei punti di contatto con i denti della ruota.Utilizzando dei cilindri in rubino e curvandone i piani inclinati per rendere uniforme, per tutta l’azione, la velocità della ruota, si ha migliorato l’affidabilità quanto la marcia.<br>
+Breguet ha migliorato le proporzioni e la costruzione dello scappamento fino ad un limite invalicabile ed ha applicato la sua versione di scappamento standard ai suoi orologi.L’utilizzo dello scappamento a cilindro fu abbandonato in Inghilterra alla fine del diciottesimo secolo, ma i laboratori di Breguet continuarono ad utilizzarlo, fino al 1830 circa.<br>
+Ripreso dagli svizzeri alla metà del diciannovesimo secolo per essere montato negli orologi di qualità media, è stato utilizzato fino alla metà del ventesimo secolo. È da ricordare che questo fu il primo scappamento in grado di separare le due funzioni di avanzamento del moto e di alimentazione del periodo.  
 
 ### **Secondi Morti**
-Negli orologi meccanici, la sfera dei secondi si muove generalmente con scatti di ⅕ di secondo, lasso di tempo brevissimo che crea una apparente continuità di movimento.  
+Negli orologi meccanici, la sfera dei secondi si muove generalmente con scatti di ⅕ di secondo, lasso di tempo brevissimo che crea una apparente continuità di movimento.  <br>
 Per agevolare, la lettura del tempo trascorso, quanto la precisione degli orologi a pendolo diventò elevata, si creò questa complicazione atta a far muovere la sfera dei secondi con scatti di 1 secondo.  
 
 ***
