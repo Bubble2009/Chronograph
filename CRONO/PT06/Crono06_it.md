@@ -34,7 +34,7 @@ Avendo due sfere dei secondi da gestire è considerata una complicazione importa
 
 **Varianti:**  
 * La variante **MonoRattrappante** si basa sul medesimo funzionamento, ma con una sola sfera dei secondi. Alla prima pressione, la sfera dei secondi cronografici si stoppa, ad una seconda pressione, raggiunge immediatamente la posizione che avrebbe avuto senza interruzioni e prosegue da li.
-* Le varianti con **doppia **o **tripla **funzione rattrappante sdoppiano anche le sfere dei minuti cronografici (doppia) e anche delle ore cronografiche (tripla) con la stessa funzione di quella dei secondi cronografici.  
+* Le varianti con **doppia** o **tripla** funzione rattrappante sdoppiano anche le sfere dei minuti cronografici (doppia) e anche delle ore cronografiche (tripla) con la stessa funzione di quella dei secondi cronografici.  
   
 ### **Regatta (aka Cronografo da Regata)**
 Linea di cronografi dedicati alle regate.Sono caratterizzati da una un timer (conto alla rovescia) di 5 minuti (o a multipli di 5 minuti) e da una alta visibilità del contatore.  
@@ -76,7 +76,7 @@ Con **Compax** vengono indicati il numero dei SubDial dedicati alle complicanze.
 Si noti che i piccoli secondi, non sono considerati una complicanza.Questa nomenclatura è stata inizialmente introdotta da **Universal Genève** tra il **1930** ed il **1940**, vediamo come va interpretata secondo l’idea iniziale.<br>
 Detto questo, possiamo suddividere i Dial Cronografici con tre nomenclature che comprendono quasi tutti i cronografi: **UniCompax**, **BiCompax** e **TriCompax**, rispettivamente per indicare 1, 2 o 3 contatori dedicati a complicanze.  
 
-* ***UniCompax**<br>Generalmente caratterizzato da due subdial posizionati ad ore 3 e 9 oppure ad ore 6 e 12.Di norma uno è dedicato ai piccoli secondi e l’altro ai minuti cronografici, questo nel caso che i secondi cronografici siano centrali.  
+* **UniCompax**<br>Generalmente caratterizzato da due subdial posizionati ad ore 3 e 9 oppure ad ore 6 e 12.Di norma uno è dedicato ai piccoli secondi e l’altro ai minuti cronografici, questo nel caso che i secondi cronografici siano centrali.  
 
 * **BiCompax**<br>In questa versione del dial, non c’è un vero e proprio standard poiché ogni Maison si è sbizzarrita nel creare movimenti con le più disparate funzioni.Pertanto, a fianco dei piccoli secondi, possiamo trovare i minuti cronografici e le ore cronografiche, oppure i minuti e una sotto frazione dei secondi o ancora, nella versione più assurda, troviamo anche i secondi cronografici in un contatore.  
 
