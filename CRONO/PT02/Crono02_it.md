@@ -14,7 +14,7 @@ Sempre più spesso serviva poter tenere traccia del tempo trascorso mantenendo e
 Si tratta di un calibro con ruota a colonne e frizione orizzontale 29 mm di diametro e 6 mm di altezza.<br>
 Questo primo movimento Cronografico era dotato di un **monopulsante** inserito nella corona.<br>
 
-![Lolngines 13.33Z monopush](assets/Longines_13.33Z_monopush.png)
+![Lolngines 13.33Z monopush](assets/Longines_13.33Z_monopush.jpeg)
 
 La pressione attivava in successione le tre funzioni cronografiche: Avvio, Arresto, Azzeramento.<br>
 Si tratta di un calibro con 18 rubini ed una frequenza di 18.000 A/h (siamo ben lontani dalle 216.000A/h del primo cronografo).<br>
@@ -86,7 +86,7 @@ La complicazione del cronografo :book:*rattrapante* è stata brevettata da Patek
 Anche di questo primo crono “split second” non si trova documentazione.<br>
 Mi riservo di aggiungere in un futuro prossimo, ulteriori nozioni in merito visto che è un passo importante per la storia dei cronografi.  
 
-## **1934***
+## **1934**
 ### Breitling n°100, *il doppio pulsante*
   
 Nel 1932 **Willy Breitling** sostituisce **Gaston Breitling** a capo della Maison.<br>
@@ -131,7 +131,7 @@ Ed alcune pubblicità di segnatempo animati da questo calibro:
 
 ***
   
-Con il Longines 13ZN si conclude questa seconda parte.
+Con il Longines **13ZN** si conclude questa seconda parte.
 La ricerca tornerò dopo una piccola pausa pubblicitaria.  
 
 :link: [Torna all'indice della sezione Cronografi](../../README.md)
