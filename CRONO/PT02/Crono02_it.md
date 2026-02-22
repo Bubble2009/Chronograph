@@ -1,7 +1,7 @@
 
 # CRONOGRAFI DA POLSO
 
-La storia del Cronografo è indubbiamente importante, ma a noi interessano principalmente quelli da polso, pertanto ora andrò ad analizzare le più importanti tappe toccate dalla storia dell’orologeria cronografica che ci hanno condotti fino ai giorni nostri:  
+La storia del Cronografo è indubbiamente importante, ma a me interessano principalmente quelli da polso, pertanto ora andrò ad analizzare le più importanti tappe toccate dalla storia dell’orologeria cronografica che ci hanno condotti fino ai giorni nostri:  
 
 ## **1913**
 ### Longines 13.33Z
