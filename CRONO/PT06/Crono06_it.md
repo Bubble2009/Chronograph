@@ -5,7 +5,17 @@ Come promesso, inserisco un po' di didattica sui alcuni dei termini utilizzati n
 
 Ecco l'indice dei macro argomenti:
 * [Tipi di cronografo](#tipi-di-cronografo)
+    * [Cronografo Centrale](#cronografo-centrale)
+    * [Fly-Back](#fly-back)
+    * [Minuti Centrali](#minuti-centrali)
+    * [MonoRattrappante](#monorattrappante)
+    * [Rattrappante](#rattrappante-aka-slit-second)
+    * [Regatta](#regatta-aka-cronografo-da-regata)
 * [Il Glossario](#il-glossario-vero-e-proprio)
+    * [CH 27](#ch-27-poi-lemania-2310)
+    * [Lemania 2310](#lemania-2310)
+    * [Scappamento a cilindro](#scappamento-a-cilindro)
+    * [Secondi Morti](#secondi-morti)
 * [Nomenclatura Dial](#nomenclaura-dial)
 
 ***
@@ -47,8 +57,8 @@ Linea di cronografi dedicati alle regate.Sono caratterizzati da una un timer (co
   
 ### **CH 27 (poi Lemania 2310)**
 Calibro sviluppato da Albert Gustave Piguet. Rispetto ai predecessori era molto più piccolo misurando 27mm di diametro e 6,74 di altezza.<br>
-È stato utilizzato dal 1946 al 1968 da Omega come **cal. 321** dove ha raggiunto straordinari record fi affidabilità e prestazioni, culminando nella certificazione NASA (superando test definibili torture) per poter lavorare nello spazio.<br>
-Nel 1947 fu presentato un prototipo **Automatico** che però non venne mai prodotto.Sarebbe potuto diventare il primo calibro cronografico automatico 22 anni prima dei concorrenti.  
+È stato utilizzato dal 1946 al 1968 da Omega come **cal. 321** dove ha raggiunto straordinari record di affidabilità e prestazioni, culminando nella certificazione NASA (superando test definibili torture) per poter lavorare nello spazio.<br>
+Nel 1947 fu presentato un prototipo **Automatico** che però non venne mai prodotto.<br>Sarebbe potuto diventare il primo calibro cronografico automatico 22 anni prima dei concorrenti.  
   
 ### **Lemania 2310**
 Vedi [cal **CH 27**](#ch-27-poi-lemania-2310)
@@ -71,33 +81,39 @@ Per agevolare, la lettura del tempo trascorso, quanto la precisione degli orolog
 
 ## Nomenclaura Dial
   
-### il termine ** Compax**
+### il termine **Compax**
 Con **Compax** vengono indicati il numero dei SubDial dedicati alle complicanze.<br>
-Si noti che i piccoli secondi, non sono considerati una complicanza.Questa nomenclatura è stata inizialmente introdotta da **Universal Genève** tra il **1930** ed il **1940**, vediamo come va interpretata secondo l’idea iniziale.<br>
-Detto questo, possiamo suddividere i Dial Cronografici con tre nomenclature che comprendono quasi tutti i cronografi: **UniCompax**, **BiCompax** e **TriCompax**, rispettivamente per indicare 1, 2 o 3 contatori dedicati a complicanze.  
+Si noti che i piccoli secondi, non sono considerati una complicanza.<br>
+Questa nomenclatura è stata inizialmente introdotta da **Universal Genève** tra il **1930** ed il **1940**, vediamo come va interpretata secondo l’idea iniziale.
+
+Possiamo quindi suddividere i Dial Cronografici con tre nomenclature che comprendono quasi tutti i cronografi: **UniCompax**, **BiCompax** e **TriCompax**, rispettivamente per indicare 1, 2 o 3 contatori dedicati a complicanze oltre ai piccoli secondi.
 
 * **UniCompax**<br>Generalmente caratterizzato da due subdial posizionati ad ore 3 e 9 oppure ad ore 6 e 12.Di norma uno è dedicato ai piccoli secondi e l’altro ai minuti cronografici, questo nel caso che i secondi cronografici siano centrali.  
 
-* **BiCompax**<br>In questa versione del dial, non c’è un vero e proprio standard poiché ogni Maison si è sbizzarrita nel creare movimenti con le più disparate funzioni.Pertanto, a fianco dei piccoli secondi, possiamo trovare i minuti cronografici e le ore cronografiche, oppure i minuti e una sotto frazione dei secondi o ancora, nella versione più assurda, troviamo anche i secondi cronografici in un contatore.  
+* **BiCompax**<br>In questa versione del dial, non c’è un vero e proprio standard poiché ogni Maison si è sbizzarrita nel creare movimenti con le più disparate funzioni.<br> Pertanto, a fianco dei piccoli secondi, possiamo trovare i minuti cronografici e le ore cronografiche, oppure i minuti e una sotto frazione dei secondi o ancora, nella versione più assurda, troviamo anche i secondi cronografici in un contatore.  
 
-* **TriCompax**<br>Generalmente utilizzato per aggiungere la complicanza delle fasi lunari, come abbiamo visto in precedenza, **Eberhard** ha inserito tre complicanze cronografiche.  
+* **TriCompax**<br>Generalmente utilizzato per aggiungere la complicanza delle fasi lunari oppure, come abbiamo visto in precedenza, **Eberhard** ha inserito tre complicanze cronografiche.
 
-Questo seguendo quanto pensato negli anni ’30 da Universal Genève, ma al giorno d’oggi, in maniera più istintiva, si tende a indicare con il nome, non il numero di complicanze, ma il numero di contatori.<br> Di seguito una mia rappresentazione con il nome secondo i dettami originali e il nome utilizzato al giorno d’oggi.  
+Questo seguendo quanto pensato negli anni ’30 da Universal Genève, ma al giorno d’oggi, in maniera più istintiva, si tende a indicare con questi aggettivi, non il numero di complicanze, ma il numero di contatori.<br>Quindi, nella nomenclatura contemporanea, i piccoli secondi vengono conteggiati come una complicanza.
+
+Di seguito una mia rappresentazione grafica con il nome secondo i dettami originali e quello utilizzato al giorno d’oggi.  
+
 
 ![Compax](assets/Compax.png)
   
 Concludo con le mie personali considerazioni a proposito di questa raffigurazione.
-Utilizzerò i nomi correnti in quanto più immediati.  
-1. La seconderia a ore 6, è un richiamo al passato. La apprezzo sugli orologi vintage, la tollero sulle riedizioni, ma la trovo un inutile vezzo su orologi moderni;
+Utilizzerò i nomi correnti in quanto più immediati e i numeri dell'elenco fanno riferimento ai dial nella rappresentazione.
 
-2. Per BiCompax, vale quanto detto per il n° 1. Sono però un po’ più tollerante nel caso di orologi nuovi rispetto alla seconderia;
+1. La seconderia a ore 6, è un richiamo al passato. La apprezzo sugli orologi vintage, la tollero sulle riedizioni, ma la trovo un inutile vezzo su orologi moderni;<br> Avrete sicuramente visto dial i piccoli secondi messi a casaccio dove capita. Io stesso posseggo uno scheletrato con la seconderia posizionata alle 7½.
 
-3. Mi piace meno del BiCompax contrassegnato con il n° 2.
+2. Per BiCompax, vale quanto detto per il n° 1.<br> Sono però un po’ più tollerante nel caso di orologi nuovi rispetto alla seconderia;
+
+3. Questa configurazione mi piace meno del BiCompax contrassegnato con il n° 2.
 4. Una delle disposizioni più classiche dei cronografi, nata come diretta conseguenza del BiCompax al n° 2.
-5. Questa è la disposizione cronografica che meno mi piace.<br> E’ stata introdotta da **Valjoux** e non è difficile sentir nominare questo tipo di quadrante come Dial Valjoux.
-6. Variante della disposizione n° 2. Personalmente la apprezzavo molto, perché mi dava l’impressione di essere più ariosa dell’altra disposizione TriCompax.<br> Poi, l’ho sentita chiamare da un utente di un forum *disposizione swatch* ed ho iniziato a guardarla con occhi differenti, ma ogni volta che indosso il mio Citizen con il quadrante disposto in questo modo, mi passa ogni pensiero negativo.
-7. C’è poco da dire. Non ho mai avuto a che fare con questa disposizione e quindi non posso fare alcuna considerazione. Sicuramente riempie tanto (forse troppo) il quadrante.
-8. Credo che solo **Eberhard** utilizzi questa disposizione e mi viene solo da dire: “*beato chi se li può permettere*”.  
+5. Questa è la disposizione cronografica che meno mi piace.<br> E’ stata introdotta da **Valjoux** e non è difficile sentir nominare questo tipo di quadrante come Dial Valjoux.<br>Ho un cronografo Citizen con questa configurazione.
+6. Variante della disposizione n° 2. Personalmente la apprezzavo molto, perché mi dava l’impressione di essere più ariosa dell’altra disposizione TriCompax.<br> Mi è capitato di sentirla chiamare da un utente di un forum: *disposizione swatch*.<br> Da quel momento ho iniziato a guardarla con occhi differenti, ma continua a piacermi.
+7. C’è poco da dire. Non ho mai avuto a che fare con questa disposizione e quindi non posso fare alcuna considerazione.<br> Sicuramente riempie tanto (forse troppo) il quadrante.
+8. Credo che solo **Eberhard** utilizzi questa disposizione e mi viene solo da dire: “*beato chi se li può permettere*”.
 
 ***
 Aggiornerò periodicamente questa sezione di glossario, in modo da renderla sempre più completa.<br>
