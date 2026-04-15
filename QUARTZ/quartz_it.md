@@ -154,7 +154,8 @@ Ci sono però teorie che assegnano il primato al **Gruen Teletime LCD Watch** ch
 ![Gruen-Teletime-606A-0](assets/Gruen-Teletime-606A-0.jpg)<br>
 `Gruen Teletime LCD Watch`
 ***
-Da non amante del marchio coronato, non mi ero nemmeno interessato a come rispose alla *crisi del quarzo*, oltretutto non è nemmeno oggetto di questa ricerca, ma sapendo che per molte persone esiste solo quel marchio, rendo noto che nel 1977 nacque il Rolex Oysterquartz.
+Non sono amante del marchio coronato, ma è importante vedere la risposta di questa maison alla *crisi del quarzo*.
+Nel 1977, dalle sapienti mani di Gerald Genta, nacque il Rolex Oysterquartz.
 
 ![Rolex Datejust Oysterquartz](assets/Rolex_Datejust_Oysterquartz_0.jpg)<br>
 `Rolex Datejust Oysterquartz - ref. 5100 - cal. Beta 21`
