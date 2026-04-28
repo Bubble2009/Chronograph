@@ -1,4 +1,5 @@
-
+![Banner Crono](../assets/Banner_Crono_Bubble2009.jpg)
+---
 # CRONOGRAFI DA POLSO
 
 La storia del Cronografo è indubbiamente importante, ma a noi interessano principalmente quelli da polso, pertanto ora andrò ad analizzare le più importanti tappe toccate dalla storia dell’orologeria cronografica che ci hanno condotti fino ai giorni nostri:  

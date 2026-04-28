@@ -2,7 +2,7 @@
 
 I cronografi sono da sempre la categoria di orologi che più mi attrae, così ho pensato di raccontarvi le origini della mia passione.  
 
-![Banner Crono](assets/Banner_Crono_Bubble2009.jpg)
+![Banner Crono](../assets/Banner_Crono_Bubble2009.jpg)
   
 In passato, li ho acquistati senza indagare troppo sul perché o sul percome, semplicemente basandomi sull'estetica o su poco altro.<br>
 Il mio primo orologio in grado di *”contare”* i secondi fu uno **Stop Swatch** che ho recentemente ritrovato. Purtroppo solo il quadrante (cinturino spezzato) enon funzionante.<br>

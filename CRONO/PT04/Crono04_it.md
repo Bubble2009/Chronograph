@@ -1,3 +1,7 @@
+![Banner Crono](../assets/Banner_Crono_Bubble2009.jpg)
+
+---
+
 # La diffusione dei coronografi
 
 I cronografi da polso sono oramai entrati nel quotidiano.<br>
