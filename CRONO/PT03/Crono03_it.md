@@ -1,3 +1,7 @@
+![Banner Crono](../assets/Banner_Crono_Bubble2009.jpg)
+
+---
+
 # Pubblicità
 
 In questo periodo storico, Longines ha occupato una posizione veramente importante nello sviluppo dei Cronografi da polso, per questo motivo ho deciso di dedicare uno spazio a pubblicità e a foto di cataloghi degli inizi del 1900.
